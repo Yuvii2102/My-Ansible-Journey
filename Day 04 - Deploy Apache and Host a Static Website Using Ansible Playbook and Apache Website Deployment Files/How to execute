@@ -1,0 +1,27 @@
+
+# Apache Website Deployment Files
+
+This folder contains the files I used to deploy a static website using Ansible Playbooks.
+
+## Files
+
+- `first-playbook.yaml` – Installs Apache, copies the HTML file and starts the Apache service.
+- `index.html` – Contains the static website deployed on both managed nodes.
+
+## Execution
+
+Check playbook syntax:
+
+```bash
+ansible-playbook -i inventory.ini first-playbook.yaml --syntax-check
+```
+
+Execute the playbook:
+
+```bash
+ansible-playbook -i inventory.ini first-playbook.yaml
+```
+
+## Result
+
+Successfully installed Apache and deployed my HTML website on two AWS EC2 managed nodes.
