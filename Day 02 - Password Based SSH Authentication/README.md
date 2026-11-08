@@ -1,4 +1,4 @@
-# Practical 2: Password-Based SSH Authentication
+# Practical : Password-Based SSH Authentication
 
 ## 1. Objective
 
