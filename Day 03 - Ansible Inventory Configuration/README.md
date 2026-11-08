@@ -1,4 +1,4 @@
-# Practical 3: Ansible Inventory Configuration
+# Practical : Ansible Inventory Configuration
 
 ## 1. Objective
 
