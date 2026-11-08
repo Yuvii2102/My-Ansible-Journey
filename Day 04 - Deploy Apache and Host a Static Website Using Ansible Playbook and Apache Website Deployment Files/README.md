@@ -1,4 +1,4 @@
-# Practical 1 – Deploy Apache and Host a Static Website Using Ansible Playbook
+# Practical – Deploy Apache and Host a Static Website Using Ansible Playbook
 
 ## 1. Objective
 
