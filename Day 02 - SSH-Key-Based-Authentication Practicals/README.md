@@ -1,4 +1,4 @@
-# Practical 1: Passwordless Authentication Using SSH Keys
+# Practical : Passwordless Authentication Using SSH Keys
 
 ## 1. Objective
 
