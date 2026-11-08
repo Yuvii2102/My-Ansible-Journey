@@ -1,4 +1,4 @@
-# Practical 4: Ansible Ad-hoc Commands
+# Ansible Ad-hoc Commands
 
 ## 1. Objective
 
