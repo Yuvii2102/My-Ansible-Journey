@@ -1,0 +1,9 @@
+Ansible-Learning/
+│
+├── Day - 07/
+│   ├── README.md
+│   ├── Practical-1-AWS-Collections.md
+│   ├── Practical-2-Boto3.md
+│   ├── Practical-3-Ansible-Vault.md
+│   ├── Practical-4-Variables-and-Jinja2.md
+│   └── Practical-5-Variable-Precedence.md
